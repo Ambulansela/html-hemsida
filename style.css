@@ -1,0 +1,40 @@
+body {
+    
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Rubik Spray Paint', serif;
+    font-size: 48px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#start {
+    text-align: center;
+    background: #CADBDE;
+}
+#projekt {
+    background-color: #AFBEC1;
+}
+#erfarenhet {
+    background-color: #96A2A5;
+}
+#om-mig {
+    background-color: #7D878A;
+}
+#kontakt {
+    background-color: #636A6D;
+}
